@@ -1,4 +1,4 @@
-
+<img src="https://gfycat.com/colorlessbitesizedkob-web-development-company-in-delhi-ncr"/>
 <h1 align="center">Hi 👋, I'm Mounika Thummala</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
@@ -10,6 +10,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/mounika_thummala_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mounika_thummala_" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/thummala123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="thummala123" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/cse_20eg105152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cse_20eg105152" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,3 +23,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mounikathummala&show_icons=true&locale=en" alt="mounikathummala" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mounikathummala&" alt="mounikathummala" /></p>
+
+
+
+
