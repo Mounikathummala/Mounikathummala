@@ -1,4 +1,5 @@
-<img src="https://gfycat.com/colorlessbitesizedkob-web-development-company-in-delhi-ncr"/>
+
+<p>&nbsp;<img align="center" src="https://thumbs.gfycat.com/ColorlessBitesizedKob.webp" alt="mounikathummala" height="10%" width="85%" /></p>
 <h1 align="center">Hi 👋, I'm Mounika Thummala</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
